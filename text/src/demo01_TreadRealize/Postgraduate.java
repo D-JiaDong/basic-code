@@ -1,4 +1,4 @@
-package demo01;
+package demo01_TreadRealize;
 
 public class Postgraduate extends Student {
     private String Research;
